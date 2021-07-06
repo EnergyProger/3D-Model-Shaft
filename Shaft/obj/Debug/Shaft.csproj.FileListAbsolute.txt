@@ -1,0 +1,9 @@
+D:\For Vs\Shaft\Shaft\bin\Debug\Shaft.exe.config
+D:\For Vs\Shaft\Shaft\bin\Debug\Shaft.exe
+D:\For Vs\Shaft\Shaft\bin\Debug\Shaft.pdb
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.csprojResolveAssemblyReference.cache
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.Form1.resources
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.Properties.Resources.resources
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.csproj.GenerateResource.Cache
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.exe
+D:\For Vs\Shaft\Shaft\obj\Debug\Shaft.pdb
